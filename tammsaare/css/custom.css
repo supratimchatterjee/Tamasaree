@@ -1,0 +1,449 @@
+@charset "utf-8";
+/* CSS Document */
+
+.backgroud_image{
+	background:url(../images/inner_banner.jpg) no-repeat center top;
+	background-size:cover;	
+}
+
+.inner_banner {
+	min-height:380px;	
+}
+
+.inner_banner h1{
+	color:#fff;
+	font-size:80px;
+	position:relative;
+	top:276px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	padding-left:86px;
+}
+
+.developer_kamos{
+	background:#fff;
+	padding:104px 20px 0 92px;
+	font-size:19px;
+	color:#797776;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+}
+
+.developer_kamos h2 {
+	color:#b21e4a;
+	font-size:41px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	padding-bottom:42px;
+}
+
+.developer_kamos p{
+	padding-bottom:46px;
+	line-height: 32px;	
+}
+
+.company_improvement_developer{
+	padding-top:122px;
+	font-size:19px;
+	color:#585958	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.company_improvement_developer img {
+    display: block;
+	padding-bottom:36px;
+}
+
+.company_improvement_developer span {
+    display: block;
+    padding: 0 0 40px 0;
+	font-weight:600;
+}
+
+.company_improvement_developer ul {
+    padding: 0 0 50px;
+}
+
+.company_improvement_developer li {
+    display: block;
+	padding: 0 0 6px;
+}
+
+.company_improvement_developer a {
+    color: #817f7e;
+	font-weight:300;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.company_improvement_developer a:hover{
+	color:#000;	
+}
+
+.gallery_endla{
+	background:rgba(237,237,237,0.8);
+	font-family: 'Open Sans', sans-serif;
+	font-size:19px;
+	color:#585958;
+	padding:92px 0 0 52px;
+	font-weight:300;
+}
+
+.gallery_endla h2{
+	color:#1889b2;
+	font-size:41px;
+	padding-bottom:49px;	
+}
+
+.gallery_endla p{
+	padding-bottom:43px;
+	line-height: 32px;	
+}
+
+.gallery_endla span{
+	padding-bottom:48px;
+	 display: block;
+}
+
+.gallery_bottom_image {
+    height: 366px;
+    width: 100%;
+}
+
+.vabad_main_content{
+	padding:90px 0 120px 0;
+	background:#fff;
+}
+
+.vabad_left_section{
+	padding: 0 0 0 100px;
+}
+
+.vabad_left_section h2{
+	font-size:30px;
+	color:#266f9c;	
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+    padding-bottom:28px;
+}
+
+.vabad_left_section span {
+    display: block;
+	color:#737373;
+	padding-bottom:13px;
+}
+
+.vabad_left_section strong {
+    padding-right: 24px;
+}
+
+.first_button{
+    padding: 64px 66px 52px;	
+	background-position: center center;
+    background-size: 93% auto !important;
+}
+
+.second_button{
+	padding: 64px 66px 52px;	
+	background-position: center center;
+    background-size: 93% auto !important;
+}
+
+.third_button{
+    padding: 64px 66px 52px;	
+	background-position: center center;
+    background-size: 93% auto !important;
+}
+
+
+.image_download {
+    padding: 12px 0 160px;
+}
+.download_arrow{
+	background:url(../images/download_arrow.jpg) no-repeat right center;
+	color:#1b6787 !important;
+	padding:23px 0 0 0;
+	display: block;	
+	font-size:15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.contact_heading {
+    font-size: 19.39px;
+    padding-bottom: 35px;
+	font-family: 'Open Sans', sans-serif;
+	color:#15767d;
+	font-weight:600;
+}
+
+[type="color"], [type="date"], [type="datetime-local"], [type="datetime"], [type="email"], [type="month"], [type="number"], [type="password"], [type="search"], [type="tel"], [type="text"], [type="time"], [type="url"], [type="week"], textarea {
+    border: 1px solid #b1d5ed !important;
+    border-radius: 0;
+    display: block;
+    height: 35px;
+    width: 284px;
+	margin:0;
+	border-radius:0 !important;
+}
+
+.contact_from em {
+    background:#b41d4a;
+    border: 1px solid;
+    color: #fff;
+    display: inline-block;
+    margin: 16px 0 0;
+    padding: 10px 23px;
+	font-size:12px;
+}
+
+.contact_from textarea {
+    height: 132px;
+    width: 283px;
+}
+
+.contact_from span {
+	color:#bbbbbb;
+	font-size:13.56px;
+	padding-left:41px;	
+}
+
+.contact_from form {
+    margin: -14px 0 0;
+}
+
+.more h2 {
+    font-size: 19.39px;
+	color:#6ea0a9;
+	padding-top:100px
+}
+
+.more span{
+	color:#8a8a8a;	
+	font-size:19px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	line-height: 30px;
+}
+
+.more a{
+	margin:0 0 0 6px;
+	color:#276983;	
+	font-weight:600;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.vabad_tabs img {
+    padding: 40px 0 41px;
+	margin: 0 0 0 58px;
+}
+
+.Üürnikud {
+	padding-top:79px;
+	background:#fff;
+}
+
+.Üürnikud_form{
+	display:inline-block;
+}
+
+.Üürnikud_form a {
+    background:#b11e4a;
+    margin: 0 0 0 12px;
+    padding: 7px 30px 6px;
+}
+
+.Üürnikud_form {
+    padding: 38px 0 56px 43px;
+}
+.Üürnikud_form  h2 {
+    font-size:30px;
+    padding: 8px 0 8px 41px;
+    text-decoration: underline;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+}
+
+.Üürnikud_form  h2:last-child{
+ text-decoration:none;	
+}
+
+
+.vabad_tabs {
+    margin: 44px 0 85px;
+}
+
+.vabad_tabs .rounded_tab{
+	background:url(../images/button-1-2.png) no-repeat center center;
+	width:142px;
+	height:84px;
+	float:left;
+	margin: 27px 0 0 -27px;
+}
+
+.vabad_tabs .rounded_tab1{
+	background:url(../images/button-2-1.png) no-repeat center center;
+	width:144px;
+	height:84px;
+	margin: -9px 0 0 -39px;
+}
+
+.vabad_tabs .rounded_tab2{
+	background:url(../images/button-3-1.png) no-repeat center center;
+	width:83px;
+	height:139px;
+	margin: -52px 0 0 66px;
+}
+
+
+.vabad_tabs .rounded_tab:hover{
+	background:url(../images/button-1-1.png) no-repeat center center;
+
+	
+}
+
+.vabad_tabs .rounded_tab1:hover{
+	background:url(../images/button-2-2.png) no-repeat center center;
+
+}
+
+.vabad_tabs .rounded_tab2:hover{
+	background:url(../images/button-3-2.png) no-repeat center center;
+
+}
+
+
+.rounded_tab a {
+    display: block;
+    padding: 35px 0 0 50px;
+	font-size:19.39px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300;
+	color:#346875;
+}
+
+.rounded_tab:hover a{
+	color:#fff;
+}
+
+.rounded_tab2  a {
+    padding: 62px 0 0 24px;
+}
+
+
+
+
+
+
+
+
+
+
+.Üürnikud_tabs {
+    margin: 44px 0 85px;
+	width:700px;
+}
+
+.Üürnikud_tabs .blue_rounded_tab {
+    background: rgba(0, 0, 0, 0) url("../images/button-1-2_big.png") no-repeat scroll center center;
+    float: left;
+    height: 150px;
+    margin: 27px 0 0 -27px;
+    width: 250px;
+}
+
+.Üürnikud_tabs .blue_rounded_tab1 {
+    background: rgba(0, 0, 0, 0) url("../images/button-2-1_big.png") no-repeat scroll center center;
+    height: 149px;
+    margin: -29px 0 0 -79px;
+    width: 250px;
+}
+	
+.Üürnikud_tabs .blue_rounded_tab2 {
+	background: rgba(0, 0, 0, 0) url("../images/button-3-1-big.png") no-repeat scroll center center;
+	height: 265px;
+	margin: 13px 0 0 -128px;
+	width: 250px;
+}
+
+.Üürnikud_tabs .blue_rounded_tab:hover{
+	background:url(../images/button-1-2-1.png) no-repeat center center;
+
+	
+}
+
+.Üürnikud_tabs .blue_rounded_tab1:hover{
+	background:url(../images/button-1-2-3.png) no-repeat center center;
+
+}
+
+.Üürnikud_tabs .blue_rounded_tab2:hover{
+	background:url(../images/button-1-2-2.png) no-repeat center center;
+
+}
+
+
+.blue_rounded_tab a {
+    color: #346875;
+    display: block;
+    font-family: "Open Sans",sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    padding: 59px 0 0 88px;
+}
+
+.blue_rounded_tab:hover a{
+	color:#fff;
+}
+
+.blue_rounded_tab2 a {
+    padding: 114px 0 0 87px;
+}
+
+.address_section{
+	padding-bottom:60px;
+	background:#fff;
+}
+
+.contact_info .diamond-box{
+	background:url(../images/diamond.png) no-repeat center center;
+	color:#fff;
+	font-size:17px;
+	font-family: "Open Sans",sans-serif;
+	font-weight:bold;
+	padding: 24px;
+	display:inline-block;
+}
+
+.contact_info h6 {
+    color: #585857;
+    display: inline-block;
+    padding-left: 9px;
+	font-size:17px;
+	font-family: "Open Sans",sans-serif;
+	font-weight:600;
+}
+.contact_info {
+    padding: 0 50px 0 84px;
+}
+
+.web_address {
+    color: #007ea9;
+    display: block;
+    margin: -13px 0 9px 5px;
+    padding: 0 0 0 61px;
+    font-family: "Open Sans",sans-serif;
+	font-size:17px;
+	font-weight:400;
+}
+
+.phone_number {
+    color: #007ea9;
+    display: block;
+    font-family: "Open Sans",sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    margin: 9px 0 16px 62px;
+	background:url(../images/phone-icon2.png) no-repeat left center;
+	padding-left:21px;
+}
+
+
